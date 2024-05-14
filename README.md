@@ -1,3 +1,6 @@
+###  NAME:KAIF MOHAMED P
+###  ROLL NO :212222043004
+
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
